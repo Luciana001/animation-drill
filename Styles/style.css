@@ -1,0 +1,41 @@
+.cadre{
+	border: 3px solid white;
+	width: 180px;
+	margin-left: 42.5%;
+
+
+}
+.cadre:hover {
+	color: black;
+	background-color: white;
+}
+
+body{
+	background-color: black;
+	color: white;
+}
+p{
+	text-align: center;
+}
+.zoom{
+	border: 3px solid white;
+	width: 180px;
+	margin-left: 42.5%;
+	margin-top: 20px;
+}
+.zoom:hover{
+	color: black;
+	background-color: white;
+	transform: scale(1.5);
+}
+.move{
+	border: 3px solid white;
+	width: 180px;
+	margin-left: 42.5%;
+	margin-top: 20px;
+}
+.move:hover{
+	color: black;
+	background-color: white;
+	transform: translate(200px,0);
+}
